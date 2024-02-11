@@ -15,7 +15,7 @@ The Hangman Game project is a Python implementation of the classic word guessing
 
 To install and run the Hangman Game project, follow these steps:
 
-1. Clone the repository: git clone https://github.com/yourusername/hangman-game.git
+1. Clone the repository: git clone https://github.com/Dazmo0n/hangman67.git
 2. Navigate to the project directory: cd hangman-game
 3. Ensure you have Python installed (version 3.x)
 4. Run the game: python hangman.py
